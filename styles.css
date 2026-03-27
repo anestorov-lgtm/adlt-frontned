@@ -217,6 +217,13 @@ section h2 + p {
 }
 
 /* ─── CONTACT FORM ─── */
+
+/* ─── BP BANNER ─── */
+.bp-banner {
+    width: 90%;
+    margin: 0 auto;
+}
+
 form {
     max-width: 560px;
     margin: 0 auto;

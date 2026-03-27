@@ -222,6 +222,14 @@ section h2 + p {
 .bp-banner {
     width: 90%;
     margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bp-banner * {
+    max-width: 100%;
+    height: auto;
 }
 
 form {
